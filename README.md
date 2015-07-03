@@ -1,2 +1,4 @@
 # datasciencecoursera
-Coursera repo
+This eepository is for the coursera course on data science
+
+
