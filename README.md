@@ -1,4 +1,4 @@
 # datasciencecoursera
-This eepository is for the coursera course on data science
+This repository is for the coursera course on data science
 
 
